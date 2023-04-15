@@ -21,3 +21,8 @@ while True:
 
 Drücken Sie in der IDE auf den Play-Button (oder drücken Sie F5), damit das Programm auf dem Pico
 ausgeführt wird. Die LED nebem dem USB-Stecker sollte im Sekundenabstand blinken.
+
+**Achtung!**
+
+Damit `pin = Pin("LED", Pin.OUT)` funktionieren kann, muss eine *unstable*/*nightly build* Version der
+MicroPython Firmware geflasht sein. Die offizielle 1.19.1 FW unterstützt die "LED"-Notation noch nicht.
