@@ -1,5 +1,5 @@
 # PicoBricks
-Dieses Repository enthält Beispielcode für die Entwicklungsumgebung PicoBricks vom Robotistan.
+Dieses Repository enthält Beispielcode für das Entwicklungskit [PicoBricks](https://picobricks.com/) vom [Robotistan](https://shop.robotistan.com/). Der Vorteil diese Kits ist, dass man damit hardwarenahes Programmieren erlernen kann, ohne sich mit den Details der Verdrahtung der Hardware auseinandersetzen zu müssen. So lernen Kinder in der Sekundarstufe I schnell, wie man mit einfachen Programmen die Hardware für sich nutzen kann.
 
 ## Entwicklungsumgebung
 
