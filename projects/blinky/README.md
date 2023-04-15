@@ -12,7 +12,7 @@ Kopieren Sie folgenden Code in eine neue Datei in Thonny:
 from machine import Pin
 from time import sleep
 
-pin = Pin(25, Pin.OUT)
+pin = Pin("LED", Pin.OUT)
 
 while True:
     pin.toggle()
