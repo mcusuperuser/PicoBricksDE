@@ -8,3 +8,9 @@ Die Entwicklungsumgebung, die in den Beispielen verwendet wird, ist [Thonny](htt
 ## Firmware
 
 Um mit dem Modul arbeiten zu können, muss [MicroPython](https://micropython.org/) auf dem Modul installiert sein. Bitte den Anweisungen für den [Raspberry Pi Pico](https://micropython.org/download/rp2-pico/) oder den [Pico-W](https://micropython.org/download/rp2-pico-w) folgen.
+
+## Projekte
+
+Die folgenden Projekte sollen den Kindern die hardwarenahe Programmierung näher bringen:
+
+- [Blinky](./projects/blinky/README.md)
